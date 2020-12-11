@@ -1,0 +1,1638 @@
+Command: arc
+Specify start point of arc or [Center]: 23,41
+Specify second point of arc or [Center/End]: 24,41.3
+Specify end point of arc: 26.8,39.5
+Command: line
+Specify first point: 26.8,39.5
+Specify next point or [Undo]: @1.5<265
+Specify next point or [Undo]: @1.9<250
+Specify next point or [Close/Undo]: @0.3<210
+Specify next point or [Close/Undo]: @1.3<250
+Specify next point or [Close/Undo]: @1.5<225
+Specify next point or [Close/Undo]: @0.5<210
+Specify next point or [Close/Undo]: @1.8<160
+Specify next point or [Close/Undo]: @1.5<95
+Specify next point or [Close/Undo]: 21.741,36.5115
+Specify next point or [Close/Undo]: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 23,41
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 21.741,36.5115
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 9.3089
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.0000>: 0.5
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: chamfer
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: d
+Specify first chamfer distance <0.0000>: 0.1
+Specify second chamfer distance <0.1000>: 0.1
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]:
+Select second line or shift-select to apply corner:
+Command: chamfer
+(TRIM mode) Current chamfer Dist1 = 0.1000, Dist2 = 0.1000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: d
+Specify first chamfer distance <0.1000>: 0.1
+Specify second chamfer distance <0.1000>: 0.1
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]:
+Select second line or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.5000>: 0.5
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: arc
+Specify start point of arc or [Center]: 24.3,41.3
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 24,40.3
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 2
+Command: l
+LINE Specify first point: 24,40.3
+Specify next point or [Undo]: @1.2<340
+Specify next point or [Undo]: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 25.8788,40.7772
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 25.1265,39.8896
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 2
+Command: arc
+Specify start point of arc or [Center]: 23.6748,41.2329
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 22.8248,37.7329
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 7
+Command: arc
+Specify start point of arc or [Center]: 26.2942,40.3830
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 24.5,37.3
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 7
+Command: l
+LINE Specify first point: 22.8248,37.7329
+Specify next point or [Undo]: 24.5,37.3
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 22.8256,38.0528
+Specify next point or [Undo]: 24.5888,37.5925
+Specify next point or [Undo]: *Cancel*
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.5000>: 0.5
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Command: l
+LINE Specify first point: 26.782,39.5057
+Specify next point or [Undo]: @0.5<230
+Specify next point or [Undo]: @3.2<250
+Specify next point or [Close/Undo]: 25.7362,35.5718
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 25.8392,35.7571
+Specify next point or [Undo]: @0.3<100
+Specify next point or [Undo]: @0.3<70
+Specify next point or [Close/Undo]: 26.1921,36.2556
+Specify next point or [Close/Undo]: 25.8392,35.7571
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+Specify next point or [Undo]: 26.1557,36.2424
+Specify next point or [Undo]: 25.8805,36.3131
+Specify next point or [Close/Undo]: *Cancel*
+Command:
+Command: l
+LINE Specify first point: 25.3954,39.2799
+Specify next point or [Undo]: 26.6795,38.6795
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 24.7552,37.5985
+Specify next point or [Undo]: 25.4626,38.9375
+Specify next point or [Undo]: 26,38.5
+Specify next point or [Close/Undo]: 25.4,37.3
+Specify next point or [Close/Undo]: *Cancel*
+Select objects:
+Specify insertion base point: Specify insertion base point:
+Command: minsert
+Enter block name or [?] <12>: 12
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]:
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>: 1
+Enter Y scale factor <use X scale factor>: 1
+Specify rotation angle <0>: 90
+Enter number of rows (---) <1>: 1
+Enter number of columns (|||) <1>: 1
+Command: l
+LINE Specify first point: 23.1137,39.88
+Specify next point or [Undo]: 22.4332,39.84
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 22.6453,38.2974
+Specify next point or [Undo]: 22.87,39.6
+Specify next point or [Undo]: 22.4,39.5
+Specify next point or [Close/Undo]: 22.1,38.51
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 23.9388,37.7631
+Specify next point or [Undo]: 23.618,36.1282
+Specify next point or [Undo]: 23.8517,35.7944
+Specify next point or [Close/Undo]: *Cancel*
+Command: mirror
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify first point of mirror line: Specify second point of mirror line:
+Erase source objects? [Yes/No] <N>: n
+Command: arc
+Specify start point of arc or [Center]: 21.7415,36.5
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 24.9,35.7
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 6.3409
+Command: l
+LINE Specify first point: 24.8970,35.7007
+Specify next point or [Undo]: 25.552,36.1002
+Specify next point or [Undo]: *Cancel*
+ Command:
+Command: l
+LINE Specify first point: 23.8514,35.7944
+Specify next point or [Undo]: 24,36
+Specify next point or [Undo]: 25.26,36.2
+Specify next point or [Close/Undo]: 24.9,35.7
+Command: l
+LINE Specify first point: 25.26,36.2
+Specify next point or [Undo]: 24.85,35.75
+Specify next point or [Undo]: 23.8550,35.8000
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 25.26,36.2
+Specify next point or [Undo]: 24.82,35.8
+Specify next point or [Undo]: 23.8663,35.8154
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+Specify first point: 22.6511,36.1010
+Specify next point or [Undo]: 21.765,37
+Specify next point or [Undo]: 21.8,36.55
+Specify next point or [Close/Undo]: 22.6512,36.1010
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 21.765,37
+Specify next point or [Undo]: 21.8351,36.5754
+Specify next point or [Undo]: 22.6512,36.1010
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 26.6795,38.6795
+Specify next point or [Undo]: 25.26,36.2
+Specify next point or [Undo]: *Cancel*
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: l
+LINE Specify first point: 25.7362,35.5718
+Specify next point or [Undo]: 24.109,34.1272
+Specify next point or [Undo]: 24.3041,33.9
+Specify next point or [Close/Undo]: 23.941,33.5
+Specify next point or [Close/Undo]: 23.7604,33.63
+Specify next point or [Close/Undo]: 22.279,34.1064
+Specify next point or [Close/Undo]: 22.1621,34.0760
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 22.279,34.1064
+Specify next point or [Undo]: 22.2889,33.819
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 23.76,33.63
+Specify next point or [Undo]: 23.683,33.312
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 24.3041,33.9
+Specify next point or [Undo]: 24,33.707
+Specify next point or [Undo]: 23.9,33.8
+Specify next point or [Close/Undo]: 22.23,34.311
+Specify next point or [Close/Undo]: 22.1439,34.2786
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 24.3041,33.9
+Specify next point or [Undo]: 24,33.74
+Specify next point or [Undo]: 23.9,33.8111
+Specify next point or [Close/Undo]: 22.23,34.321
+Specify next point or [Close/Undo]: 22.1439,34.2786
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 24.3031,33.9
+Specify next point or [Undo]: 24.025,33.86
+Specify next point or [Undo]: 23.95,33.919
+Specify next point or [Close/Undo]: 22.2375,34.4411
+Specify next point or [Close/Undo]: 22.1439,34.2786
+Specify next point or [Close/Undo]: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 21.81,37.4351
+Specify second point of arc or [Center/End]: @2.8<240
+Specify end point of arc: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 21.8100,37.4351
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: @2.8<240
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 3.17
+Command: l
+LINE Specify first point: 20.41,35.0102
+Specify next point or [Undo]: @1.9<135
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 21.4499,37.1544
+Specify next point or [Undo]: @1.3<135
+Specify next point or [Undo]: *Cancel*
+Command: polygon
+Enter number of sides <4>: 5
+Specify center of polygon or [Edge]: 19.37.5
+Point or option keyword required.
+Specify center of polygon or [Edge]: 19,37.5
+Enter an option [Inscribed in circle/Circumscribed about circle] <I>: i
+Specify radius of circle: 1.25
+Command: polygon
+Enter number of sides <5>: 5
+Specify center of polygon or [Edge]: 19,37.5
+Enter an option [Inscribed in circle/Circumscribed about circle] <I>: i
+Specify radius of circle: 1.4
+Command: explode
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.5000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.5000>: 1
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 1.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 1.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 1.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 1.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 1.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <1.0000>: 0.7
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: circle
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 20,37
+Specify radius of circle or [Diameter]: 0.2
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: 1 found
+Select objects: 1 found, 2 total
+Select objects: 1 found, 3 total
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 22.0513,35.3524
+Specify next point or [Undo]: @0.7<180
+Specify next point or [Undo]: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 21.3513,35.3524
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: @7.4<275
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 8.4
+Command: z
+ZOOM
+Specify corner of window, enter a scale factor (nX or nXP), or
+[All/Center/Dynamic/Extents/Previous/Scale/Window/Object] <real time>: a
+Command: z
+ZOOM
+Specify corner of window, enter a scale factor (nX or nXP), or
+[All/Center/Dynamic/Extents/Previous/Scale/Window/Object] <real time>:
+Specify opposite corner:
+Command: l
+LINE Specify first point: 21.9963,27.9806
+Specify next point or [Undo]: @2.2<350
+Specify next point or [Undo]: @1.8<20
+Specify next point or [Close/Undo]: @1<45
+Specify next point or [Close/Undo]: *Cancel*
+Command:
+Command: l
+LINE Specify first point: 26.59932,37.375
+Specify next point or [Undo]: @0.4<355
+Specify next point or [Undo]: @1.7<315
+Specify next point or [Close/Undo]: *Cancel*
+Command: circle
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.8614,30.52
+Specify radius of circle or [Diameter] <0.2000>: d|
+Specify diameter of circle <0.4000>: 5.85
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.8614,30.5200
+Specify radius of circle or [Diameter] <2.9250>: d
+Specify diameter of circle <5.8500>: 5
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.8614,30.5200
+Specify radius of circle or [Diameter] <2.5000>: Diameter
+Specify diameter of circle <5.0000>: 4.3
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.8614,30.5200
+Specify radius of circle or [Diameter] <2.1500>: Diameter
+Specify diameter of circle <4.3000>: 5.7
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.8614,30.5200
+Specify radius of circle or [Diameter] <2.8500>: Diameter
+Specify diameter of circle <5.7000>: 3.6
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.8614,30.5200
+Specify radius of circle or [Diameter] <1.8000>: Diameter
+Specify diameter of circle <3.6000>: 3.45
+Command: *Cancel*
+Command: polygon
+Enter number of sides <5>: 6
+Specify center of polygon or [Edge]: 29.3614,32.4213
+Enter an option [Inscribed in circle/Circumscribed about circle] <I>: i
+Specify radius of circle: 3.54
+Command: circle
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 29.3614,32.4213
+Specify radius of circle or [Diameter] <1.7250>: 1.2
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 6 found
+Select objects: Specify opposite corner: 8 found (5 duplicate), 9 total
+Select objects:
+Select object to trim or shift-select to extend or
+ [Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: *Cancel*
+Command: explode
+Select objects: 1 found
+Select objects:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: ellipse
+Specify axis endpoint of ellipse or [Arc/Center]: 28.3000,38.2000
+Specify other endpoint of axis: 28.6000,34.7000
+Specify distance to other axis or [Rotation]: 0.5
+Command: circle
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.3,38.2
+Specify radius of circle or [Diameter] <1.2000>: 0.25
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.3000,38.2000
+Specify radius of circle or [Diameter] <0.2500>: 1
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.3655,37.36
+Specify radius of circle or [Diameter] <1.0000>: 0.444
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.3655,37.3600
+Specify radius of circle or [Diameter] <0.4440>: 0.37
+Command: ellipse
+Specify axis endpoint of ellipse or [Arc/Center]: c
+Specify center of ellipse: 28.386,37.2036
+Specify endpoint of axis: 28.4722,36.4117
+Specify distance to other axis or [Rotation]: 0.7
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: c
+Specify center of ellipse: 28.4492,36.5129
+Specify endpoint of axis: 28.5038,35.8879
+Specify distance to other axis or [Rotation]: 0.7
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: circle
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 28.5649,35.0649
+Specify radius of circle or [Diameter] <0.3700>: 0.5
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 14 found
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: Specify opposite corner:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Specify opposite corner:
+Command: block
+Select objects: Specify opposite corner: 16 found
+Select objects:
+Specify insertion base point:
+Command: *Cancel*
+Command: minsert
+Enter block name or [?] <finger>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: -10
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]:
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>:
+Enter Y scale factor <use X scale factor>: 1.06
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command: MINSERT
+Enter block name or [?] <finger>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: -20
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]:
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>:
+Enter Y scale factor <use X scale factor>:
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command: MINSERT
+Enter block name or [?] <finger>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: -30
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]:
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>:
+Enter Y scale factor <use X scale factor>: 0.75
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command:
+MINSERT Enter block name or [?] <finger>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: 45
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]:
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>: 1.15
+Enter Y scale factor <use X scale factor>: 0.65
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command: arc
+Specify start point of arc or [Center]: 30.7517,29.4431
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 32.1872,33.8215
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 9.4937
+Command: l
+LINE Specify first point: 20.41,35.0102
+Specify next point or [Undo]: 21.0061,34.2304
+Specify next point or [Undo]: *Cancel*
+Command: ellipse
+Specify axis endpoint of ellipse or [Arc/Center]: 21.1524,29.8746
+Specify other endpoint of axis: 26.0044,28.3643
+Specify distance to other axis or [Rotation]: 2.9018
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: 21.1524,29.8746
+Specify other endpoint of axis: 26.0044,28.3643
+Specify distance to other axis or [Rotation]: 2.2
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: 21.1524,29.8746
+Specify other endpoint of axis: 26.0044,28.3643
+Specify distance to other axis or [Rotation]: 2
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: 21.1524,29.8746
+Specify other endpoint of axis: 26.0044,28.3643
+Specify distance to other axis or [Rotation]: 1.9
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: 21.1524,29.8746
+Specify other endpoint of axis: 26.0044,28.3643
+Specify distance to other axis or [Rotation]: 1.7
+Command: l
+LINE Specify first point: 21.35,35.3524
+Specify next point or [Undo]: 21.29,35.3524
+Specify next point or [Undo]: 21.1555,34.4605
+Specify next point or [Close/Undo]: 21.0785,35.7199
+Specify next point or [Close/Undo]: 21.1651,36.3157
+Specify next point or [Close/Undo]: 21.1483,36.3194
+Specify next point or [Close/Undo]: 21.4030,36.6425
+Specify next point or [Close/Undo]: 21.3460,36.6595
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 21.7701,37.0529
+Specify second point of arc or [Center/End]: 21.3460,36.6595
+Specify end point of arc: 1.1097
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 21.5045,36.6212
+Specify next point or [Undo]: 21.7411,36.5118
+Specify next point or [Undo]: 21.6696,36.4406
+Command: ARC
+Specify start point of arc or [Center]: 21.6696,36.4406
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 21.5472,35.3524
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1.7307
+Command: COPY
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: l
+LINE Specify first point: 21.5730,35.3796
+Specify next point or [Undo]: 21.5788,35.3524
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 21.1555,35.4605
+Specify next point or [Undo]: 20.8853,35.3247
+Specify next point or [Undo]: 20.6020,35.4160
+Specify next point or [Close/Undo]: 20.5014,35.0554
+Specify next point or [Close/Undo]: 20.6248,34.8272
+Specify next point or [Close/Undo]: 20.7665,34.8546
+Specify next point or [Close/Undo]: 20.9127,35.2745
+Specify next point or [Close/Undo]: 20.8853,35.3247
+Command: copy
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects: 1 found, 3 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: l
+LINE Specify first point: 20.7665,34.8546
+Specify next point or [Undo]: 21.1381,34.7186
+Specify next point or [Undo]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 23 found
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: ellipse
+Specify axis endpoint of ellipse or [Arc/Center]: 21.8870,30.3908
+Specify other endpoint of axis: 21.1813,30.1479
+Specify distance to other axis or [Rotation]: 1.1
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: 21.9500,30.3908
+Specify other endpoint of axis: 21.1813,30.1479
+Specify distance to other axis or [Rotation]: 1.1
+Command: ELLIPSE
+Specify axis endpoint of ellipse or [Arc/Center]: 21.1813,30.1479
+Specify other endpoint of axis: 21.9000,30.3908
+Specify distance to other axis or [Rotation]: 1.1000
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 3 found
+Select objects:
+Select object to trim or shift-select to extend or[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: polygon
+Enter number of sides <4>: 6
+Specify center of polygon or [Edge]: e
+Specify first endpoint of edge: 21.9500,30.3908
+Specify second endpoint of edge: 22.0359,29.4440
+Command: explode
+Select objects: 1 found
+Select objects:
+Command: copy
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or <use first point as displacement>: 22.7644,31.0094
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command:
+Command: l
+LINE Specify first point: 23.5899,30.5395
+Specify next point or [Undo]: 23.6277,30.6060
+Specify next point or [Undo]: 26.2617,31.8590
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 23.5899,30.5396
+Specify next point or [Undo]: 24.7734,31.0999
+Specify next point or [Undo]: 24.7983,31.1633
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 22.8988,29.0450
+Specify next point or [Undo]: 23.1289,28.8317
+Specify next point or [Undo]: 23.1039,27.7803
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 23.1289,28.8317
+Specify next point or [Undo]: @0.05<90
+Specify next point or [Undo]: 25.9570,30.3435
+Specify next point or [Close/Undo]: *Cancel*
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.0000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.0000>: 0.05
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner: 
+Command: copy
+1 found
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>: 23.3636,28.8694
+Specify second point or [Exit/Undo] <Exit>: 23.4096,28.7491
+Specify second point or [Exit/Undo] <Exit>: 23.5555,28.6642
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 24.7734,31.0999
+Specify next point or [Undo]: 25.6110,30.1572
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 24.7983,31.1633
+Specify next point or [Undo]: 25.6466,30.1803
+Specify next point or [Undo]: 25.8223,30.1392
+Specify next point or [Close/Undo]: 25.8216,29.8459
+Specify next point or [Close/Undo]: *Cancel*
+Command:
+Command: LINE
+Specify first point: 25.6110,30.1572
+Specify next point or [Undo]: 25.8223,30.1392
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 23.8534,29.1224
+Specify next point or [Undo]: 24.3681,29.0356
+Specify next point or [Undo]: 25.6909,29.6291
+Specify next point or [Close/Undo]: 25.9602,29.8585
+Specify next point or [Close/Undo]: 25.9903,29.9983
+Specify next point or [Close/Undo]: *Cancel*
+Command: break
+Select object:
+Specify second break point or [First point]:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.0500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Specify fillet radius <0.0500>:0.3
+Select second object or shift-select to apply corner:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.3000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.3000>: 0.25
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.2500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: l
+LINE Specify first point: 31.9918,32.0531
+Specify next point or [Undo]: 29.8511,28.9731
+Specify next point or [Undo]: *Cancel*
+Command:
+Command: l
+LINE Specify first point: 26.9444,30.1502
+Specify next point or [Undo]: 26.2379,33.5628
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 28.1632,35.5100
+Specify next point or [Undo]: 27.2061,34.3928
+Specify next point or [Undo]: 26.8926,34.3059
+Specify next point or [Close/Undo]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.2500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Specify fillet radius <0.2500>:0.75
+Select second object or shift-select to apply corner:
+Command: arc
+Specify start point of arc or [Center]: 21.9072,35.3524
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 21.3033,32.8166
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 4.4681
+Command: ARC
+Specify start point of arc or [Center]: 21.3033,32.8166
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 21.2606,31.3232
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 3.0715
+Command:
+Command: copy
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 23.3993,30.7111
+Specify next point or [Undo]: 24.7897,31.4108
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 24.8966,31.3287
+Specify next point or [Undo]: 24.3415,31.8985
+Specify next point or [Undo]: @1<90
+Specify next point or [Close/Undo]: 23.6172,32.3155
+Specify next point or [Close/Undo]: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 22.2759,33.8241
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 23.6172,32.3155
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 3.1
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: l
+LINE Specify first point: 23.5816,32.2160
+Specify next point or [Undo]: 23.6182,32.0273
+Specify next point or [Undo]: *Cancel*
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: line
+Specify first point: 23.6182,32.0273
+Specify next point or [Undo]: 23.3117,31.9254
+Specify next point or [Undo]: *Cancel*
+Command: l
+LINE Specify first point: 21.9704,33.8658
+Specify next point or [Undo]: 22.0070,33.8656
+Specify next point or [Undo]: 22.1313,33.9510
+Specify next point or [Close/Undo]: 22.2408,33.7140
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 21.9704,33.4314
+Specify next point or [Undo]: 21.7878,33.1899
+Specify next point or [Undo]: 20.8302,33.1810
+Specify next point or [Close/Undo]: *Cancel*
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.7500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.7500>: 0.25
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: FILLETCurrent settings: Mode = TRIM, Radius = 0.2500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.2500>: 0.15
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: chamfer
+(TRIM mode) Current chamfer Dist1 = 0.0000, Dist2 = 0.0000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]: d
+Specify first chamfer distance <0.0000>: 0.1
+Specify second chamfer distance <0.1000>:
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]:
+Select second line or shift-select to apply corner:
+Command: line
+Specify first point: 23.3117,31.9259
+Specify next point or [Undo]: 23.2259,31.5049
+Specify next point or [Undo]: 23.7518,30.8730
+Specify next point or [Close/Undo]: *Cancel*
+Command: line
+Specify first point: 24.8966,31.3287
+Specify next point or [Undo]: 25.5222,31.6402
+Specify next point or [Undo]: 25.5222,32.9968
+Specify next point or [Close/Undo]: 25.4203,33.0816
+Specify next point or [Close/Undo]: 25.1317,32.9544
+Specify next point or [Close/Undo]: 24.58,33.2682
+Specify next point or [Close/Undo]: 23.5181,32.3671
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 23.6184,32.3179
+Specify next point or [Undo]: 23.5787,32.2172
+Specify next point or [Undo]: *Cancel*
+Command: CHAMFER
+(TRIM mode) Current chamfer Dist1 = 0.1000, Dist2 = 0.1000
+Select first line or [Undo/Polyline/Distance/Angle/Trim/mEthod/Multiple]:
+Select second line or shift-select to apply corner:
+Command: *Cancel*
+Command: line
+Specify first point: 26.9974,37.3407
+Specify next point or [Undo]: 27.0833,37.0119
+Specify next point or [Undo]: 25.9290,34.9046
+Specify next point or [Close/Undo]: *Cancel*
+Command: l
+LINE Specify first point: 25.4567,34.1541
+Specify next point or [Undo]: 24.9146,33.1648
+Specify next point or [Undo]: 24.8487,33.1110
+Specify next point or [Close/Undo]: 24.8547,33.4162
+Specify next point or [Close/Undo]: 24.3034,33.4940
+Specify next point or [Close/Undo]: 23.8535,32.9984
+Specify next point or [Close/Undo]: 23.7092,33.2443
+Specify next point or [Close/Undo]: 23.5479,33.3715
+Specify next point or [Close/Undo]: 23.1149,32.6762
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 23.8535,32.9984
+Specify next point or [Undo]: 24.1331,33.1345
+Specify next point or [Undo]: 24.2813,32.9968
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 24.1674,33.2129
+Specify next point or [Undo]: 24.2433,33.1720
+Specify next point or [Undo]: 24.3369,33.28
+Specify next point or [Close/Undo]: 24.5079,33.1993
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 24.43,33.233
+Specify next point or [Undo]: 24.6484,33.4826
+Specify next point or [Undo]: *Cancel*
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 24.7110,33.3113
+Specify radius of circle or [Diameter]: 0.05
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 23.5788,33.1462
+Specify radius of circle or [Diameter] <0.0500>: 0.065
+Command:
+Command: CIRCLE
+Specify center point for circle or [3P/2P/Ttr (tan tan radius)]: 23.5788,33.1462
+Specify radius of circle or [Diameter] <0.0650>: 0.045
+Command: copy
+1 found
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: TRIM
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 5 found
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Object does not intersect an edge.
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: arc
+Specify start point of arc or [Center]: 22.9086,32.8896
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 22.6336,32.4401
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.49
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displaceme
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 2 found
+Select objects: 1 found, 3 total
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: LINE
+Specify first point: 25.9290,34.9046
+Specify next point or [Undo]: 26.9969,36.9781
+Specify next point or [Undo]: 26.9505,37.3028
+Specify next point or [Close/Undo]: 26.5639,37.3144
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 26.9466,36.8805
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 26.5639,37.3144
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.42
+Command:
+Command: ARC
+Specify start point of arc or [Center]: 26.5101,36.0105
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 26.5041,37.2622
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 2.16
+Command: LINE
+Specify first point: 25.4203,33.0816
+Specify next point or [Undo]: 25.64,32.8933
+Specify next point or [Undo]: 25.6438,33.6396
+Specify next point or [Close/Undo]: 28.1505,35.9815
+Specify next point or [Close/Undo]: *Cancel*
+Command: COPY
+Select objects: 1 found
+Select objects: Specify opposite corner: 0 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 25.64,32.8933
+Specify next point or [Undo]: 25.6361,33.5554
+Specify next point or [Undo]: *Cancel*
+Command: COPY
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 26.4096,32.8400
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 26.2198,31.8316
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 2.05
+Command: LINE
+Specify first point: 29.0176,29.3619
+Specify next point or [Undo]: 28.9960,29.7364
+Specify next point or [Undo]: 28.3909,29.5777
+Specify next point or [Close/Undo]: 29.0176,29.3619
+Specify next point or [Close/Undo]: 29.0444,29.2739
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 28.2102,29.5777
+Specify next point or [Undo]: 28.1439,29.5189
+Specify next point or [Undo]: *Cancel*
+Command: BREAK
+Select object:
+Specify second break point or [First point]:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.1500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.1500>: 0.05
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: copy
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 26.9861,30.1502
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 26.749,31.4438
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1.64
+Command: COPY
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 29.2714,31.2372
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 30.0005,29.3241
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 2.122
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 30.4899,31.7009
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 31.7734,31.7654
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1.816
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 30.5851,33.0245
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 31.8127,33.8204
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1.625
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 29.6696,33.7344
+Specify next point or [Undo]: 29.7991,34.6379
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 29.433,33.7451
+Specify next point or [Undo]: 29.4868,34.7862
+Specify next point or [Undo]: *Cancel*
+Command: COPY
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 27.7973,35.0593
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 28.6284,33.5670
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1.4567
+Command: COPY
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: line
+Specify first point: 28.7329,31.4187
+Specify next point or [Undo]: 29.2784,31.2316
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 27.6080,28.3426
+Specify next point or [Undo]: 27.8413,28.8418
+Specify next point or [Undo]: 28.7535,28.5381
+Specify next point or [Close/Undo]: 28.6398,28.0263
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 27.1405,28.2817
+Specify next point or [Undo]: 27.1642,28.0688
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 28.7869,27.7138
+Specify next point or [Undo]: 28.5263,27.56
+Specify next point or [Undo]: *Cancel*
+Command: break
+Select object:
+Specify second break point or [First point]:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.0500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.0500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: line
+Specify first point: 19.8182,38.311
+Specify next point or [Undo]: 19.9877,38.311
+Specify next point or [Undo]: 20.1925,38.1277
+Specify next point or [Close/Undo]: 20.1501,37.8949
+Specify next point or [Close/Undo]: 19.79,37.4787
+Specify next point or [Close/Undo]: 19.5852,37.4716
+Specify next point or [Close/Undo]: 19.5569,37.6480
+Specify next point or [Close/Undo]: c
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.2500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command:
+Command: *Cancel*
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.2500
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.2500>: 0.07
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: LINE
+Specify first point: 19.0202,38.3042
+Specify next point or [Undo]: 19.1093,38.1954
+Specify next point or [Undo]: 19.6142,37.8592
+Specify next point or [Close/Undo]: 19.5845,37.6416
+Specify next point or [Close/Undo]: 19.4657,37.8295
+Specify next point or [Close/Undo]: 18.6836,37.9284
+Specify next point or [Close/Undo]: 18.6935,38.0668
+Specify next point or [Close/Undo]: 18.8419,38.2856
+Specify next point or [Close/Undo]: 19.0202,38.3042
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.1093,38.1954
+Specify next point or [Undo]: 19.0428,38.1856
+Specify next point or [Undo]: 18.8514,37.8932
+Specify next point or [Close/Undo]: 18.8769,37.8301
+Specify next point or [Close/Undo]: 18.9327,37.8565
+Specify next point or [Close/Undo]: 19.1188,38.152
+Specify next point or [Close/Undo]: c
+Command: LINE
+Specify first point: 19.0428,38.1856
+Specify next point or [Undo]: 18.9605,38.2993
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 18.8425,38.2649
+Specify next point or [Undo]: 19.0342,38.1798
+Specify next point or [Undo]: 18.8523,37.9065
+Specify next point or [Close/Undo]: 18.7016,38.0636
+Specify next point or [Close/Undo]: 18.8425,38.2649
+Specify next point or [Close/Undo]: *Cancel*
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.0700
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.0700
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: arc
+Specify start point of arc or [Center]: 19.4256,37.5578
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 19.5808,37.8881
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.345
+Command: block
+Select objects: Specify opposite corner: 23 found
+Select objects:
+Specify insertion base point:
+Command: minsert
+Enter block name or [?] <fingy>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: 10
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: 18.8792,37.5591
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>:
+Enter Y scale factor <use X scale factor>:
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command: MINSERT
+Enter block name or [?] <fingy>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: 20
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: 18.7467,37.1981
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>: 0.75
+Enter Y scale factor <use X scale factor>:
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command: MINSERT
+Enter block name or [?] <fingy>:
+Units: Inches   Conversion:    1.0000
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: r
+Specify rotation angle <0>: 35
+Specify insertion point or [Basepoint/Scale/X/Y/Z/Rotate]: 18.7750,36.8823
+Enter X scale factor, specify opposite corner, or [Corner/XYZ] <1>: 0.65
+Enter Y scale factor <use X scale factor>:
+Enter number of rows (---) <1>:
+Enter number of columns (|||) <1>:
+Command: LINE
+Specify first point: 19.691,38.0554
+Specify next point or [Undo]: 20.1297,37.863
+Specify next point or [Undo]: *Cancel*
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 18.4189,37.5586
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 18.4901,36.8903
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.4721
+Command: ARC
+Specify start point of arc or [Center]: 18.6928,37.9864
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 18.4189,37.5586
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.3556
+Command: ARC
+Specify start point of arc or [Center]: 19.2313,38.1081
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 18.8434,38.2850
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.2418
+Command: ARC
+Specify start point of arc or [Center]: 19.3897,38.0032
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 18.8434,38.285
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.347
+Command: LINE
+Specify first point: 19.9752,38.2961
+Specify next point or [Undo]: 19.7186,38.4313
+Specify next point or [Undo]: 19.6682,38.1463
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 19.6682,38.1463
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 19.5772,38.3309
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 0.2521
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: 1 found
+Select objects: 1 found, 2 total
+Select objects: 1 found, 3 total
+Select objects
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Current settings: Mode = TRIM, Radius = 0.0700
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Select second object or shift-select to apply corner:
+Command: fillet
+Current settings: Mode = TRIM, Radius = 0.0700
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Select second object or shift-select to apply corner:
+Command: LINE
+Specify first point: 20.0658,37.5516
+Specify next point or [Undo]: 19.6883,37.355
+Specify next point or [Undo]: 19.3412,37.6090
+Specify next point or [Close/Undo]: *Cancel*
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.0700
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]: r
+Specify fillet radius <0.0700>: 0.6
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: LINE
+Specify first point: 19.4416,36.6133
+Specify next point or [Undo]: 19.0629,37.2979
+Specify next point or [Close/Undo]: *Cancel*
+Command: FILLET
+Current settings: Mode = TRIM, Radius = 0.6000
+Select first object or [Undo/Polyline/Radius/Trim/Multiple]:
+Select second object or shift-select to apply corner:
+Command: LINE
+Specify first point: 19.0943,38.3428
+Specify next point or [Undo]: 19.5780,38.3311
+Specify next point or [Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 19.2809,36.1316
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 20.5405,37.5031
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1.7
+Command: copy
+Select objects: 1 found
+Select objects:
+Specify base point or [Displacement] <Displacement>: Specify second point or 
+<use first point as displacement>:
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 20.1555,36.6814
+Specify next point or [Undo]: 20.5009,36.5089
+Specify next point or [Undo]: 20.6108,36.6853
+Specify next point or [Close/Undo]: 20.3159,36.9098
+Specify next point or [Close/Undo]: *Cancel
+Command: LINE
+Specify first point: 20.49,36.5095
+Specify next point or [Undo]: 20.6125,36.7033
+Specify next point or [Undo]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: 1 found
+Select objects: 1 found, 2 total
+Select objects: 1 found, 3 total
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: LINE
+Specify first point: 21.0597,30.2027
+Specify next point or [Undo]: 20.7136,29.8841
+Specify next point or [Undo]: @0.1<125
+Specify next point or [Close/Undo]: @2.3<235
+Specify next point or [Close/Undo]: @2.5<250
+Specify next point or [Close/Undo]: @0.1<300
+Specify next point or [Close/Undo]: @1.6<250
+Specify next point or [Close/Undo]: @1<270
+Specify next point or [Close/Undo]: @1<340
+Specify next point or [Close/Undo]: 19.3286,22.9219
+Specify next point or [Close/Undo]: 19.5939,22.9279
+Specify next point or [Close/Undo]: 19.8326,23.4048
+Specify next point or [Close/Undo]: 20.0529,23.5056
+Specify next point or [Close/Undo]: 20.1080,23.7716
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 20.1080,23.7716
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 22.1790,26.5989
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 5.428
+Command: LINE
+Specify first point: 19.3369,28.0519
+Specify next point or [Undo]: 19. 5345,28.0973
+Specify next point or [Undo]: 21.1869,27.7099
+Specify next point or [Close/Undo]: 21.2523,27.5997
+Specify next point or [Close/Undo]: 21.2932,27.6119
+Specify next point or [Close/Undo]: *Cancel*
+Command:
+Command: LINE
+Specify first point: 19.5345,28.0973
+Specify next point or [Undo]: 19.5343,28.0973
+Specify next point or [Undo]: 21.0830,27.5380
+Specify next point or [Close/Undo]: 21.2523,27.5997
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.7961,27.8754
+Specify next point or [Undo]: 19.8219,27.7491
+Specify next point or [Undo]: 20.8422,27.4776
+Specify next point or [Close/Undo]: 21.0830,27.5380
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 18.5567,25.9096
+Specify next point or [Undo]: 18.5589,25.7055
+Specify next point or [Undo]: 19.0600,27.1910
+Specify next point or [Close/Undo]: 19.4264,27.4116
+Specify next point or [Close/Undo]: 20.6260,27.1031
+Specify next point or [Close/Undo]: 20.7654,26.8040
+Specify next point or [Close/Undo]: 21.1541,26.6969
+Specify next point or [Close/Undo]: 21.7244,26.9783
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.0336,27.2193
+Specify next point or [Undo]: 19.4544,27.5081
+Specify next point or [Undo]: 20.6832,27.1896
+Specify next point or [Close/Undo]: 20.7654,26.8040
+Specify next point or [Close/Undo]: 20.7744,26.4762
+Specify next point or [Close/Undo]: 20.4448,24.5999
+Specify next point or [Close/Undo]: 19.9388,24.0945
+Specify next point or [Close/Undo]: 19.8326,23.4048
+Specify next point or [Close/Undo]: 19.5968,23.4609
+Specify next point or [Close/Undo]: 19.4339,23.1345
+Specify next point or [Close/Undo]: 19.1514,23.1076
+Specify next point or [Close/Undo]: 18.9429,22.8792
+Specify next point or [Close/Undo]: 18.3847,22.9867
+Specify next point or [Close/Undo]: 17.9833,23.1132
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.5968,23.4609
+Specify next point or [Undo]: 19.9040,24.3783
+Specify next point or [Undo]: 19.8776,24.6028
+Specify next point or [Close/Undo]: 20.0759,25.2101
+Specify next point or [Close/Undo]: 19.6661,25.1961
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 18.4933,25.4959
+Specify next point or [Undo]: 18.6368,25.7361
+Specify next point or [Undo]: 18.7409,25.5210
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 19.6661,25.1961
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 18.7409,25.5210
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 1
+Command: LINE
+Specify first point: 19.1514,23.1076
+Specify next point or [Undo]: 18.8714,23.0725
+Specify next point or [Undo]: 17.9995,23.3062
+Specify next point or [Close/Undo]: 17.9846,23.3371
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 20.0759,25.2101
+Specify next point or [Undo]: 19.3388,23.4217
+Specify next point or [Undo]: *Cancel*
+Command: copy
+Select objects: 1 found
+Select objects: 1 found, 2 total
+Select objects:
+Specify base point or [Displacement] <Displacement>: 20.0759,25.2101
+Specify second point or <use first point as displacement>: 19.3388,23.4217
+Specify second point or [Exit/Undo] <Exit>: *Cancel*
+Command: LINE
+Specify first point: 18.9282,23.4080
+Specify next point or [Undo]: 17.9837,23.7761
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.6661,25.1969
+Specify next point or [Undo]: 18.9282,23.4080
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 18.7409,25.5210
+Specify next point or [Undo]: 17.9837,23.7761
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.9386,24.0945
+Specify next point or [Undo]: 20.0308,24.3745
+Specify next point or [Undo]: 19.9989,24.5766
+Specify next point or [Close/Undo]: 20.2011,25.1717
+Specify next point or [Close/Undo]: 20.5735,25.7032
+Specify next point or [Close/Undo]: 20.5628,26.0964
+Specify next point or [Close/Undo]: 20.4032,26.3196
+Specify next point or [Close/Undo]: 20.1904,26.0964
+Specify next point or [Close/Undo]: 19.8453,25.2024
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 20.0759,25.2101
+Specify next point or [Undo]: 20.2011,25.1717
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 19.9989,24.5766
+Specify next point or [Undo]: 19.8776,24.6028
+Specify next point or [Undo]: *Cancel*
+Command: LINE
+Specify first point: 18.6826,25.6326
+Specify next point or [Undo]: 19.0992,26.5264
+Specify next point or [Undo]: 19.1812,26.8249
+Specify next point or [Close/Undo]: 18.8951,26.7037
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 20.7744,26.4762
+Specify next point or [Undo]: 21.1808,26.1330
+Specify next point or [Undo]: 21.4616,26.2732
+Specify next point or [Close/Undo]: 21.5194,25.9350
+Specify next point or [Close/Undo]: 21.2755,24.8813
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 21.2755,24.8813
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 21.4616,26.2732
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 8.4
+Command: LINE
+Specify first point: 18.9238,22.7715
+Specify next point or [Undo]: 18.9924,22.5700
+Specify next point or [Undo]: 19.5624,22.3358
+Specify next point or [Close/Undo]: 20.0479,22.8486
+Specify next point or [Close/Undo]: 20.0583,23.0151
+Specify next point or [Close/Undo]: 20.2146,23.2753
+Specify next point or [Close/Undo]: 20.2468,23.8751
+Specify next point or [Close/Undo]: *Cancel*
+Command: LINE
+Specify first point: 23.5779,26.2640
+Specify next point or [Undo]: 23.6779,25.3119
+Specify next point or [Undo]: 23.6779,24.9518
+Specify next point or [Close/Undo]: 23.7140,24.9038
+Specify next point or [Close/Undo]: 23.7365,24.7029
+Specify next point or [Close/Undo]: 23.8294,24.5993
+Specify next point or [Close/Undo]: 24.3231,24.4463
+Specify next point or [Close/Undo]: 24.5614,24.4803
+Specify next point or [Close/Undo]: 24.8338,24.8204
+Specify next point or [Close/Undo]: 24.9189,25.1605
+Specify next point or [Close/Undo]: 25.0381,25.4746
+Specify next point or [Close/Undo]: *Cancel*
+Command: ARC
+Specify start point of arc or [Center]: 25.0381,25.4746
+Specify second point of arc or [Center/End]: e
+Specify end point of arc: 26.0061,28.3660
+Specify center point of arc or [Angle/Direction/Radius]: r
+Specify radius of arc: 6.7
+Command: LINE
+Specify first point: 25.8055,27.2486
+Specify next point or [Undo]: 25.5600,26.9164
+Specify next point or [Undo]: 25.5012,26.6893
+Specify next point or [Close/Undo]: 25.3991,26.6575
+Specify next point or [Close/Undo]: 25.5116,27.0144
+Specify next point or [Close/Undo]: 25.8159,27.6687
+Specify next point or [Close/Undo]: 25.9426,28.1866
+Specify next point or [Close/Undo]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 4 found
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: trim
+Current settings: Projection=UCS, Edge=None
+Select cutting edges ...
+Select objects or <select all>: Specify opposite corner: 4 found
+Select objects:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]:
+Select object to trim or shift-select to extend or
+[Fence/Crossing/Project/Edge/eRase/Undo]: *Cancel*
+Command: bhatch
+Pick internal point or [Select objects/remove Boundaries]: Selecting 
+everything...
+Selecting everything visible...
+Analyzing the selected data...
+Analyzing internal islands...
+Pick internal point or [Select objects/remove Boundaries]:
+Command: BHATCH
+Pick internal point or [Select objects/remove Boundaries]:
+Analyzing internal islands...
+Pick internal point or [Select objects/remove Boundaries]:
+Command: GRADIENT
+Pick internal point or [Select objects/remove Boundaries]: Selecting 
+everything...
+Selecting everything visible...
+Analyzing the selected data...
+Analyzing internal islands...
+Pick internal point or [Select objects/remove Boundaries]:
+Pick or press Esc to return to dialog or <Right-click to accept hatch>:
